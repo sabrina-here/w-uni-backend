@@ -20,12 +20,31 @@ const client = new MongoClient(uri, {
   useUnifiedTopology: true,
   serverApi: ServerApiVersion.v1,
 });
-client.connect((err) => {
-  const collection = client.db("test").collection("devices");
-  // perform actions on the collection object
-  client.close();
-});
+
+async function run() {
+  try {
+    const countriesCollection = client.db("world_uni").collection("countries");
+    const universitiesCollection = client
+      .db("world_uni")
+      .collection("universities");
+
+    app.post("/addUniversities", async (req, res) => {
+      const universities = req.body.array;
+      const result = await universitiesCollection.insertMany(universities);
+      res.send(result);
+    });
+
+    app.get("/countries", async (req, res) => {
+      const query = {};
+      const cursor = countriesCollection.find(query);
+      const countries = await cursor.toArray();
+      res.send(countries);
+    });
+  } finally {
+  }
+}
+run().catch((e) => console.error(e));
 
 app.listen(port, () => {
-  console.log(running);
+  console.log("running");
 });

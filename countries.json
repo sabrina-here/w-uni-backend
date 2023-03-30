@@ -1,0 +1,1388 @@
+[
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/ar.png",
+      "svg": "https://flagcdn.com/ar.svg",
+      "alt": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band."
+    },
+    "name": {
+      "common": "Argentina",
+      "official": "Argentine Republic",
+      "nativeName": {
+        "grn": { "official": "Argentine Republic", "common": "Argentina" },
+        "spa": { "official": "República Argentina", "common": "Argentina" }
+      }
+    },
+    "currencies": { "ARS": { "name": "Argentine peso", "symbol": "$" } },
+    "capital": ["Buenos Aires"],
+    "region": "Americas",
+    "languages": { "grn": "Guaraní", "spa": "Spanish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
+    },
+    "population": { "$numberInt": "45376763" },
+    "timezones": ["UTC-03:00"],
+    "continents": ["South America"]
+  },
+  {
+    "flags": {
+      "png": "https://flagcdn.com/w320/au.png",
+      "svg": "https://flagcdn.com/au.svg",
+      "alt": "The flag of Australia has a dark blue field. It features the flag of the United Kingdom — the Union Jack — in the canton, beneath which is a large white seven-pointed star. A representation of the Southern Cross constellation, made up of one small five-pointed and four larger seven-pointed white stars, is situated on the fly side of the field."
+    },
+    "name": {
+      "common": "Australia",
+      "official": "Commonwealth of Australia",
+      "nativeName": {
+        "eng": {
+          "official": "Commonwealth of Australia",
+          "common": "Australia"
+        }
+      }
+    },
+    "currencies": { "AUD": { "name": "Australian dollar", "symbol": "$" } },
+    "capital": ["Canberra"],
+    "region": "Oceania",
+    "languages": { "eng": "English" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/80500"
+    },
+    "population": { "$numberInt": "25687041" },
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:30",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:30",
+      "UTC+10:00",
+      "UTC+10:30",
+      "UTC+11:30"
+    ],
+    "continents": ["Oceania"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb8e" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/at.png",
+      "svg": "https://flagcdn.com/at.svg",
+      "alt": "The flag of Austria is composed of three equal horizontal bands of red, white and red."
+    },
+    "name": {
+      "common": "Austria",
+      "official": "Republic of Austria",
+      "nativeName": {
+        "bar": { "official": "Republik Österreich", "common": "Österreich" }
+      }
+    },
+    "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
+    "capital": ["Vienna"],
+    "region": "Europe",
+    "languages": { "de": "German" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/16239"
+    },
+    "population": { "$numberInt": "8917205" },
+    "timezones": ["UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb8f" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/bd.png",
+      "svg": "https://flagcdn.com/bd.svg",
+      "alt": "The flag of Bangladesh has a dark green field bearing a large red circle that is offset slightly towards the hoist side of center."
+    },
+    "name": {
+      "common": "Bangladesh",
+      "official": "People's Republic of Bangladesh",
+      "nativeName": {
+        "ben": { "official": "বাংলাদেশ গণপ্রজাতন্ত্রী", "common": "বাংলাদেশ" }
+      }
+    },
+    "currencies": { "BDT": { "name": "Bangladeshi taka", "symbol": "৳" } },
+    "capital": ["Dhaka"],
+    "region": "Asia",
+    "languages": { "ben": "Bengali" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/184640"
+    },
+    "population": { "$numberInt": "164689383" },
+    "timezones": ["UTC+06:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb91" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/br.png",
+      "svg": "https://flagcdn.com/br.svg",
+      "alt": "The flag of Brazil has a green field with a large yellow rhombus in the center. Within the rhombus is a dark blue globe with twenty-seven small five-pointed white stars depicting a starry sky and a thin white convex horizontal band inscribed with the national motto 'Ordem e Progresso' across its center."
+    },
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil",
+      "nativeName": {
+        "por": {
+          "official": "República Federativa do Brasil",
+          "common": "Brasil"
+        }
+      }
+    },
+    "currencies": { "BRL": { "name": "Brazilian real", "symbol": "R$" } },
+    "capital": ["Brasília"],
+    "region": "Americas",
+    "languages": { "por": "Portuguese" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/59470"
+    },
+    "population": { "$numberInt": "212559409" },
+    "timezones": ["UTC-05:00", "UTC-04:00", "UTC-03:00", "UTC-02:00"],
+    "continents": ["South America"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb92" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ca.png",
+      "svg": "https://flagcdn.com/ca.svg",
+      "alt": "The flag of Canada is composed of a red vertical band on the hoist and fly sides and a central white square that is twice the width of the vertical bands. A large eleven-pointed red maple leaf is centered in the white square."
+    },
+    "name": {
+      "common": "Canada",
+      "official": "Canada",
+      "nativeName": {
+        "eng": { "official": "Canada", "common": "Canada" },
+        "fra": { "official": "Canada", "common": "Canada" }
+      }
+    },
+    "currencies": { "CAD": { "name": "Canadian dollar", "symbol": "$" } },
+    "capital": ["Ottawa"],
+    "region": "Americas",
+    "languages": { "eng": "English", "fra": "French" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1428125"
+    },
+    "population": { "$numberInt": "38005238" },
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "continents": ["North America"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb93" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cl.png",
+      "svg": "https://flagcdn.com/cl.svg",
+      "alt": "The flag of Chile is composed of two equal horizontal bands of white and red, with a blue square of the same height as the white band superimposed in the canton. A white five-pointed star is centered in the blue square."
+    },
+    "name": {
+      "common": "Chile",
+      "official": "Republic of Chile",
+      "nativeName": {
+        "spa": { "official": "República de Chile", "common": "Chile" }
+      }
+    },
+    "currencies": { "CLP": { "name": "Chilean peso", "symbol": "$" } },
+    "capital": ["Santiago"],
+    "region": "Americas",
+    "languages": { "spa": "Spanish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/167454"
+    },
+    "population": { "$numberInt": "19116209" },
+    "timezones": ["UTC-06:00", "UTC-04:00"],
+    "continents": ["South America"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb94" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cn.png",
+      "svg": "https://flagcdn.com/cn.svg",
+      "alt": "The flag of China has a red field. In the canton are five yellow five-pointed stars — a large star and four smaller stars arranged in a vertical arc on the fly side of the large star."
+    },
+    "name": {
+      "common": "China",
+      "official": "People's Republic of China",
+      "nativeName": {
+        "zho": { "official": "中华人民共和国", "common": "中国" }
+      }
+    },
+    "currencies": { "CNY": { "name": "Chinese yuan", "symbol": "¥" } },
+    "capital": ["Beijing"],
+    "region": "Asia",
+    "languages": { "zho": "Chinese" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/270056"
+    },
+    "population": { "$numberInt": "1402112000" },
+    "timezones": ["UTC+08:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb95" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/co.png",
+      "svg": "https://flagcdn.com/co.svg",
+      "alt": "The flag of Colombia is composed of three horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands."
+    },
+    "name": {
+      "common": "Colombia",
+      "official": "Republic of Colombia",
+      "nativeName": {
+        "spa": { "official": "República de Colombia", "common": "Colombia" }
+      }
+    },
+    "currencies": { "COP": { "name": "Colombian peso", "symbol": "$" } },
+    "capital": ["Bogotá"],
+    "region": "Americas",
+    "languages": { "spa": "Spanish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RdwTG8e7gPwS62oR6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/120027"
+    },
+    "population": { "$numberInt": "50882884" },
+    "timezones": ["UTC-05:00"],
+    "continents": ["South America"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb96" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/cr.png",
+      "svg": "https://flagcdn.com/cr.svg",
+      "alt": "The flag of Costa Rica is composed of five horizontal bands of blue, white, red, white and blue. The central red band is twice the height of the other four bands."
+    },
+    "name": {
+      "common": "Costa Rica",
+      "official": "Republic of Costa Rica",
+      "nativeName": {
+        "spa": { "official": "República de Costa Rica", "common": "Costa Rica" }
+      }
+    },
+    "currencies": { "CRC": { "name": "Costa Rican colón", "symbol": "₡" } },
+    "capital": ["San José"],
+    "region": "Americas",
+    "languages": { "spa": "Spanish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287667"
+    },
+    "population": { "$numberInt": "5094114" },
+    "timezones": ["UTC-06:00"],
+    "continents": ["North America"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb97" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/dk.png",
+      "svg": "https://flagcdn.com/dk.svg",
+      "alt": "The flag of Denmark has a red field with a large white cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+    },
+    "name": {
+      "common": "Denmark",
+      "official": "Kingdom of Denmark",
+      "nativeName": {
+        "dan": { "official": "Kongeriget Danmark", "common": "Danmark" }
+      }
+    },
+    "currencies": { "DKK": { "name": "Danish krone", "symbol": "kr" } },
+    "capital": ["Copenhagen"],
+    "region": "Europe",
+    "languages": { "dan": "Danish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/50046"
+    },
+    "population": { "$numberInt": "5831404" },
+    "timezones": ["UTC-04:00", "UTC-03:00", "UTC-01:00", "UTC", "UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb98" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ec.png",
+      "svg": "https://flagcdn.com/ec.svg",
+      "alt": "The flag of Ecuador is composed of the horizontal bands of yellow, blue and red, with the yellow band twice the height of the other two bands. The Ecuadorian coat of arms is superimposed in the center of the field."
+    },
+    "name": {
+      "common": "Ecuador",
+      "official": "Republic of Ecuador",
+      "nativeName": {
+        "spa": { "official": "República del Ecuador", "common": "Ecuador" }
+      }
+    },
+    "currencies": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "capital": ["Quito"],
+    "region": "Americas",
+    "languages": { "spa": "Spanish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/108089"
+    },
+    "population": { "$numberInt": "17643060" },
+    "timezones": ["UTC-06:00", "UTC-05:00"],
+    "continents": ["South America"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb99" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/fi.png",
+      "svg": "https://flagcdn.com/fi.svg",
+      "alt": "The flag of Finland has a white field with a large blue cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+    },
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland",
+      "nativeName": {
+        "fin": { "official": "Suomen tasavalta", "common": "Suomi" },
+        "swe": { "official": "Republiken Finland", "common": "Finland" }
+      }
+    },
+    "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
+    "capital": ["Helsinki"],
+    "region": "Europe",
+    "languages": { "fin": "Finnish", "swe": "Swedish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+      "openStreetMaps": "openstreetmap.org/relation/54224"
+    },
+    "population": { "$numberInt": "5530719" },
+    "timezones": ["UTC+02:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb9a" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/fr.png",
+      "svg": "https://flagcdn.com/fr.svg",
+      "alt": "The flag of France is composed of three equal vertical bands of blue, white and red."
+    },
+    "name": {
+      "common": "France",
+      "official": "French Republic",
+      "nativeName": {
+        "fra": { "official": "République française", "common": "France" }
+      }
+    },
+    "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
+    "capital": ["Paris"],
+    "region": "Europe",
+    "languages": { "fra": "French" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1403916"
+    },
+    "population": { "$numberInt": "67391582" },
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb9b" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/de.png",
+      "svg": "https://flagcdn.com/de.svg",
+      "alt": "The flag of Germany is composed of three equal horizontal bands of black, red and gold."
+    },
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany",
+      "nativeName": {
+        "deu": {
+          "official": "Bundesrepublik Deutschland",
+          "common": "Deutschland"
+        }
+      }
+    },
+    "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
+    "capital": ["Berlin"],
+    "region": "Europe",
+    "languages": { "deu": "German" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/51477"
+    },
+    "population": { "$numberInt": "83240525" },
+    "timezones": ["UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb9c" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gr.png",
+      "svg": "https://flagcdn.com/gr.svg",
+      "alt": "The flag of Greece is composed of nine equal horizontal bands of blue alternating with white. A blue square bearing a white cross is superimposed in the canton."
+    },
+    "name": {
+      "common": "Greece",
+      "official": "Hellenic Republic",
+      "nativeName": {
+        "ell": { "official": "Ελληνική Δημοκρατία", "common": "Ελλάδα" }
+      }
+    },
+    "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
+    "capital": ["Athens"],
+    "region": "Europe",
+    "languages": { "ell": "Greek" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/192307"
+    },
+    "population": { "$numberInt": "10715549" },
+    "timezones": ["UTC+02:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb9d" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/hk.png",
+      "svg": "https://flagcdn.com/hk.svg",
+      "alt": ""
+    },
+    "name": {
+      "common": "Hong Kong",
+      "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+      "nativeName": {
+        "eng": {
+          "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+          "common": "Hong Kong"
+        },
+        "zho": { "official": "中华人民共和国香港特别行政区", "common": "香港" }
+      }
+    },
+    "currencies": { "HKD": { "name": "Hong Kong dollar", "symbol": "$" } },
+    "capital": ["City of Victoria"],
+    "region": "Asia",
+    "languages": { "eng": "English", "zho": "Chinese" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/913110"
+    },
+    "population": { "$numberInt": "7500700" },
+    "timezones": ["UTC+08:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb9e" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/hu.png",
+      "svg": "https://flagcdn.com/hu.svg",
+      "alt": "The flag of Hungary is composed of three equal horizontal bands of red, white and green."
+    },
+    "name": {
+      "common": "Hungary",
+      "official": "Hungary",
+      "nativeName": {
+        "hun": { "official": "Magyarország", "common": "Magyarország" }
+      }
+    },
+    "currencies": { "HUF": { "name": "Hungarian forint", "symbol": "Ft" } },
+    "capital": ["Budapest"],
+    "region": "Europe",
+    "languages": { "hun": "Hungarian" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+    },
+    "population": { "$numberInt": "9749763" },
+    "timezones": ["UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cb9f" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/in.png",
+      "svg": "https://flagcdn.com/in.svg",
+      "alt": "The flag of India is composed of three equal horizontal bands of saffron, white and green. A navy blue wheel with twenty-four spokes — the Ashoka Chakra — is centered in the white band."
+    },
+    "name": {
+      "common": "India",
+      "official": "Republic of India",
+      "nativeName": {
+        "eng": { "official": "Republic of India", "common": "India" },
+        "hin": { "official": "भारत गणराज्य", "common": "भारत" },
+        "tam": { "official": "இந்தியக் குடியரசு", "common": "இந்தியா" }
+      }
+    },
+    "currencies": { "INR": { "name": "Indian rupee", "symbol": "₹" } },
+    "capital": ["New Delhi"],
+    "region": "Asia",
+    "languages": { "eng": "English", "hin": "Hindi", "tam": "Tamil" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/304716"
+    },
+    "population": { "$numberInt": "1380004385" },
+    "timezones": ["UTC+05:30"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cba0" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/id.png",
+      "svg": "https://flagcdn.com/id.svg",
+      "alt": "The flag of Indonesia is composed of two equal horizontal bands of red and white."
+    },
+    "name": {
+      "common": "Indonesia",
+      "official": "Republic of Indonesia",
+      "nativeName": {
+        "ind": { "official": "Republik Indonesia", "common": "Indonesia" }
+      }
+    },
+    "currencies": { "IDR": { "name": "Indonesian rupiah", "symbol": "Rp" } },
+    "capital": ["Jakarta"],
+    "region": "Asia",
+    "languages": { "ind": "Indonesian" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+    },
+    "population": { "$numberInt": "273523621" },
+    "timezones": ["UTC+07:00", "UTC+08:00", "UTC+09:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cba1" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ie.png",
+      "svg": "https://flagcdn.com/ie.svg",
+      "alt": "The flag of Ireland is composed of three equal vertical bands of green, white and orange."
+    },
+    "name": {
+      "common": "Ireland",
+      "official": "Republic of Ireland",
+      "nativeName": {
+        "eng": { "official": "Republic of Ireland", "common": "Ireland" },
+        "gle": { "official": "Poblacht na hÉireann", "common": "Éire" }
+      }
+    },
+    "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
+    "capital": ["Dublin"],
+    "region": "Europe",
+    "languages": { "eng": "English", "gle": "Irish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/62273"
+    },
+    "population": { "$numberInt": "4994724" },
+    "timezones": ["UTC"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cba2" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/il.png",
+      "svg": "https://flagcdn.com/il.svg",
+      "alt": "The flag of Israel has a white field with a blue hexagram — the Magen David — centered between two equal horizontal blue bands situated near the top and bottom edges of the field."
+    },
+    "name": {
+      "common": "Israel",
+      "official": "State of Israel",
+      "nativeName": {
+        "ara": { "official": "دولة إسرائيل", "common": "إسرائيل" },
+        "heb": { "official": "מדינת ישראל", "common": "ישראל" }
+      }
+    },
+    "currencies": { "ILS": { "name": "Israeli new shekel", "symbol": "₪" } },
+    "capital": ["Jerusalem"],
+    "region": "Asia",
+    "languages": { "ara": "Arabic", "heb": "Hebrew" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1473946"
+    },
+    "population": { "$numberInt": "9216900" },
+    "timezones": ["UTC+02:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cba3" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/it.png",
+      "svg": "https://flagcdn.com/it.svg",
+      "alt": "The flag of Italy is composed of three equal vertical bands of green, white and red."
+    },
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic",
+      "nativeName": {
+        "ita": { "official": "Repubblica italiana", "common": "Italia" }
+      }
+    },
+    "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
+    "capital": ["Rome"],
+    "region": "Europe",
+    "languages": { "ita": "Italian" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+    },
+    "population": { "$numberInt": "59554023" },
+    "timezones": ["UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cba4" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/jp.png",
+      "svg": "https://flagcdn.com/jp.svg",
+      "alt": "The flag of Japan features a crimson-red circle at the center of a white field."
+    },
+    "name": {
+      "common": "Japan",
+      "official": "Japan",
+      "nativeName": { "jpn": { "official": "日本", "common": "日本" } }
+    },
+    "currencies": { "JPY": { "name": "Japanese yen", "symbol": "¥" } },
+    "capital": ["Tokyo"],
+    "region": "Asia",
+    "languages": { "jpn": "Japanese" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/382313"
+    },
+    "population": { "$numberInt": "125836021" },
+    "timezones": ["UTC+09:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cba5" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/my.png",
+      "svg": "https://flagcdn.com/my.svg",
+      "alt": "The flag of Malaysia is composed of fourteen equal horizontal bands of red alternating with white. A blue rectangle, bearing a fly-side facing yellow crescent and a fourteen-pointed yellow star placed just outside the crescent opening, is superimposed in the canton."
+    },
+    "name": {
+      "common": "Malaysia",
+      "official": "Malaysia",
+      "nativeName": {
+        "eng": { "official": "Malaysia", "common": "Malaysia" },
+        "msa": { "official": "مليسيا", "common": "مليسيا" }
+      }
+    },
+    "currencies": { "MYR": { "name": "Malaysian ringgit", "symbol": "RM" } },
+    "capital": ["Kuala Lumpur"],
+    "region": "Asia",
+    "languages": { "eng": "English", "msa": "Malay" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2108121"
+    },
+    "population": { "$numberInt": "32365998" },
+    "timezones": ["UTC+08:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cba6" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/mx.png",
+      "svg": "https://flagcdn.com/mx.svg",
+      "alt": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band."
+    },
+    "name": {
+      "common": "Mexico",
+      "official": "United Mexican States",
+      "nativeName": {
+        "spa": { "official": "Estados Unidos Mexicanos", "common": "México" }
+      }
+    },
+    "currencies": { "MXN": { "name": "Mexican peso", "symbol": "$" } },
+    "capital": ["Mexico City"],
+    "region": "Americas",
+    "languages": { "spa": "Spanish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/114686"
+    },
+    "population": { "$numberInt": "128932753" },
+    "timezones": ["UTC-08:00", "UTC-07:00", "UTC-06:00"],
+    "continents": ["North America"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cba7" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/nl.png",
+      "svg": "https://flagcdn.com/nl.svg",
+      "alt": "The flag of the Netherlands is composed of three equal horizontal bands of red, white and blue."
+    },
+    "name": {
+      "common": "Netherlands",
+      "official": "Kingdom of the Netherlands",
+      "nativeName": {
+        "nld": {
+          "official": "Koninkrijk der Nederlanden",
+          "common": "Nederland"
+        }
+      }
+    },
+    "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
+    "capital": ["Amsterdam"],
+    "region": "Europe",
+    "languages": { "nld": "Dutch" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/47796"
+    },
+    "population": { "$numberInt": "16655799" },
+    "timezones": ["UTC-04:00", "UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cba8" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/nz.png",
+      "svg": "https://flagcdn.com/nz.svg",
+      "alt": "The flag of New Zealand has a dark blue field with the flag of the United Kingdom — the Union Jack — in the canton and a representation of the Southern Cross constellation, made up of four five-pointed white-edged red stars, on the fly side of the field."
+    },
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand",
+      "nativeName": {
+        "eng": { "official": "New Zealand", "common": "New Zealand" },
+        "mri": { "official": "Aotearoa", "common": "Aotearoa" },
+        "nzs": { "official": "New Zealand", "common": "New Zealand" }
+      }
+    },
+    "currencies": { "NZD": { "name": "New Zealand dollar", "symbol": "$" } },
+    "capital": ["Wellington"],
+    "region": "Oceania",
+    "languages": {
+      "eng": "English",
+      "mri": "Māori",
+      "nzs": "New Zealand Sign Language"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/556706#map=5/-46.710/172.046"
+    },
+    "population": { "$numberInt": "5084300" },
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00",
+      "UTC+12:45",
+      "UTC+13:00"
+    ],
+    "continents": ["Oceania"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cba9" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/no.png",
+      "svg": "https://flagcdn.com/no.svg",
+      "alt": "The flag of Norway has a red field with a large white-edged navy blue cross that extends to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+    },
+    "name": {
+      "common": "Norway",
+      "official": "Kingdom of Norway",
+      "nativeName": {
+        "nno": { "official": "Kongeriket Noreg", "common": "Noreg" },
+        "nob": { "official": "Kongeriket Norge", "common": "Norge" },
+        "smi": { "official": "Norgga gonagasriika", "common": "Norgga" }
+      }
+    },
+    "currencies": { "NOK": { "name": "Norwegian krone", "symbol": "kr" } },
+    "capital": ["Oslo"],
+    "region": "Europe",
+    "languages": {
+      "nno": "Norwegian Nynorsk",
+      "nob": "Norwegian Bokmål",
+      "smi": "Sami"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2978650"
+    },
+    "population": { "$numberInt": "5379475" },
+    "timezones": ["UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbaa" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pe.png",
+      "svg": "https://flagcdn.com/pe.svg",
+      "alt": "The flag of Peru is composed of three equal vertical bands of red, white and red, with the national emblem centered in the white band."
+    },
+    "name": {
+      "common": "Peru",
+      "official": "Republic of Peru",
+      "nativeName": {
+        "aym": { "official": "Piruw Suyu", "common": "Piruw" },
+        "que": { "official": "Piruw Ripuwlika", "common": "Piruw" },
+        "spa": { "official": "República del Perú", "common": "Perú" }
+      }
+    },
+    "currencies": { "PEN": { "name": "Peruvian sol", "symbol": "S/ " } },
+    "capital": ["Lima"],
+    "region": "Americas",
+    "languages": { "aym": "Aymara", "que": "Quechua", "spa": "Spanish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/288247"
+    },
+    "population": { "$numberInt": "32971846" },
+    "timezones": ["UTC-05:00"],
+    "continents": ["South America"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbab" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ph.png",
+      "svg": "https://flagcdn.com/ph.svg",
+      "alt": "The flag of Philippines is composed of two equal horizontal bands of blue and red, with a white equilateral triangle superimposed on the hoist side of the field. This triangle has its base on the hoist end, spans about two-fifth the width of the field and bears a central golden-yellow sun with eight rays and a five-pointed golden-yellow star at each vertex."
+    },
+    "name": {
+      "common": "Philippines",
+      "official": "Republic of the Philippines",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of the Philippines",
+          "common": "Philippines"
+        },
+        "fil": {
+          "official": "Republic of the Philippines",
+          "common": "Pilipinas"
+        }
+      }
+    },
+    "currencies": { "PHP": { "name": "Philippine peso", "symbol": "₱" } },
+    "capital": ["Manila"],
+    "region": "Asia",
+    "languages": { "eng": "English", "fil": "Filipino" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/443174"
+    },
+    "population": { "$numberInt": "109581085" },
+    "timezones": ["UTC+08:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbac" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pl.png",
+      "svg": "https://flagcdn.com/pl.svg",
+      "alt": "The flag of Poland is composed of two equal horizontal bands of white and red."
+    },
+    "name": {
+      "common": "Poland",
+      "official": "Republic of Poland",
+      "nativeName": {
+        "pol": { "official": "Rzeczpospolita Polska", "common": "Polska" }
+      }
+    },
+    "currencies": { "PLN": { "name": "Polish złoty", "symbol": "zł" } },
+    "capital": ["Warsaw"],
+    "region": "Europe",
+    "languages": { "pol": "Polish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/49715"
+    },
+    "population": { "$numberInt": "37950802" },
+    "timezones": ["UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbad" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/pt.png",
+      "svg": "https://flagcdn.com/pt.svg",
+      "alt": "The flag of Portugal is composed of two vertical bands of green and red in the ratio of 2:3, with the coat of arms of Portugal centered over the two-color boundary."
+    },
+    "name": {
+      "common": "Portugal",
+      "official": "Portuguese Republic",
+      "nativeName": {
+        "por": { "official": "República português", "common": "Portugal" }
+      }
+    },
+    "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
+    "capital": ["Lisbon"],
+    "region": "Europe",
+    "languages": { "por": "Portuguese" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/295480"
+    },
+    "population": { "$numberInt": "10305564" },
+    "timezones": ["UTC-01:00", "UTC"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbaf" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sa.png",
+      "svg": "https://flagcdn.com/sa.svg",
+      "alt": "The flag of Saudi Arabia has a green field, at the center of which is an Arabic inscription — the Shahada — in white above a white horizontal sabre with its tip pointed to the hoist side of the field."
+    },
+    "name": {
+      "common": "Saudi Arabia",
+      "official": "Kingdom of Saudi Arabia",
+      "nativeName": {
+        "ara": {
+          "official": "المملكة العربية السعودية",
+          "common": "العربية السعودية"
+        }
+      }
+    },
+    "currencies": { "SAR": { "name": "Saudi riyal", "symbol": "ر.س" } },
+    "capital": ["Riyadh"],
+    "region": "Asia",
+    "languages": { "ara": "Arabic" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307584"
+    },
+    "population": { "$numberInt": "34813867" },
+    "timezones": ["UTC+03:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbb0" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/sg.png",
+      "svg": "https://flagcdn.com/sg.svg",
+      "alt": "The flag of Singapore is composed of two equal horizontal bands of red and white. On the hoist side of the red band is a fly-side facing white crescent which partially encloses five small five-pointed white stars arranged in the shape of a pentagon."
+    },
+    "name": {
+      "common": "Singapore",
+      "official": "Republic of Singapore",
+      "nativeName": {
+        "zho": { "official": "新加坡共和国", "common": "新加坡" },
+        "eng": { "official": "Republic of Singapore", "common": "Singapore" },
+        "msa": { "official": "Republik Singapura", "common": "Singapura" },
+        "tam": { "official": "சிங்கப்பூர் குடியரசு", "common": "சிங்கப்பூர்" }
+      }
+    },
+    "currencies": { "SGD": { "name": "Singapore dollar", "symbol": "$" } },
+    "capital": ["Singapore"],
+    "region": "Asia",
+    "languages": {
+      "zho": "Chinese",
+      "eng": "English",
+      "msa": "Malay",
+      "tam": "Tamil"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/536780"
+    },
+    "population": { "$numberInt": "5685807" },
+    "timezones": ["UTC+08:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbb1" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/za.png",
+      "svg": "https://flagcdn.com/za.svg",
+      "alt": "The flag of South Africa is composed of two equal horizontal bands of red and blue, with a yellow-edged black isosceles triangle superimposed on the hoist side of the field. This triangle has its base centered on the hoist end, spans about two-fifth the width and two-third the height of the field, and is enclosed on its sides by the arms of a white-edged green horizontally oriented Y-shaped band which extends along the boundary of the red and blue bands to the fly end of the field."
+    },
+    "name": {
+      "common": "South Africa",
+      "official": "Republic of South Africa",
+      "nativeName": {
+        "afr": {
+          "official": "Republiek van Suid-Afrika",
+          "common": "South Africa"
+        },
+        "eng": {
+          "official": "Republic of South Africa",
+          "common": "South Africa"
+        },
+        "nbl": {
+          "official": "IRiphabliki yeSewula Afrika",
+          "common": "Sewula Afrika"
+        },
+        "nso": {
+          "official": "Rephaboliki ya Afrika-Borwa ",
+          "common": "Afrika-Borwa"
+        },
+        "sot": {
+          "official": "Rephaboliki ya Afrika Borwa",
+          "common": "Afrika Borwa"
+        },
+        "ssw": {
+          "official": "IRiphabhulikhi yeNingizimu Afrika",
+          "common": "Ningizimu Afrika"
+        },
+        "tsn": {
+          "official": "Rephaboliki ya Aforika Borwa",
+          "common": "Aforika Borwa"
+        },
+        "tso": {
+          "official": "Riphabliki ra Afrika Dzonga",
+          "common": "Afrika Dzonga"
+        },
+        "ven": {
+          "official": "Riphabuḽiki ya Afurika Tshipembe",
+          "common": "Afurika Tshipembe"
+        },
+        "xho": {
+          "official": "IRiphabliki yaseMzantsi Afrika",
+          "common": "Mzantsi Afrika"
+        },
+        "zul": {
+          "official": "IRiphabliki yaseNingizimu Afrika",
+          "common": "Ningizimu Afrika"
+        }
+      }
+    },
+    "currencies": { "ZAR": { "name": "South African rand", "symbol": "R" } },
+    "capital": ["Pretoria", "Bloemfontein", "Cape Town"],
+    "region": "Africa",
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/87565"
+    },
+    "population": { "$numberInt": "59308690" },
+    "timezones": ["UTC+02:00"],
+    "continents": ["Africa"]
+  },
+
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbb3" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/es.png",
+      "svg": "https://flagcdn.com/es.svg",
+      "alt": "The flag of Spain is composed of three horizontal bands of red, yellow and red, with the yellow band twice the height of the red bands. In the yellow band is the national coat of arms offset slightly towards the hoist side of center."
+    },
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain",
+      "nativeName": {
+        "spa": { "official": "Reino de España", "common": "España" }
+      }
+    },
+    "currencies": { "EUR": { "name": "Euro", "symbol": "€" } },
+    "capital": ["Madrid"],
+    "region": "Europe",
+    "languages": { "spa": "Spanish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/1311341"
+    },
+    "population": { "$numberInt": "47351567" },
+    "timezones": ["UTC", "UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbb4" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/se.png",
+      "svg": "https://flagcdn.com/se.svg",
+      "alt": "The flag of Sweden has a blue field with a large golden-yellow cross that extend to the edges of the field. The vertical part of this cross is offset towards the hoist side."
+    },
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden",
+      "nativeName": {
+        "swe": { "official": "Konungariket Sverige", "common": "Sverige" }
+      }
+    },
+    "currencies": { "SEK": { "name": "Swedish krona", "symbol": "kr" } },
+    "capital": ["Stockholm"],
+    "region": "Europe",
+    "languages": { "swe": "Swedish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/52822"
+    },
+    "population": { "$numberInt": "10353442" },
+    "timezones": ["UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbb5" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ch.png",
+      "svg": "https://flagcdn.com/ch.svg",
+      "alt": "The flag of Switzerland is square shaped. It features a white Swiss cross centered on a red field."
+    },
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation",
+      "nativeName": {
+        "fra": { "official": "Confédération suisse", "common": "Suisse" },
+        "gsw": {
+          "official": "Schweizerische Eidgenossenschaft",
+          "common": "Schweiz"
+        },
+        "ita": { "official": "Confederazione Svizzera", "common": "Svizzera" },
+        "roh": { "official": "Confederaziun svizra", "common": "Svizra" }
+      }
+    },
+    "currencies": { "CHF": { "name": "Swiss franc", "symbol": "Fr." } },
+    "capital": ["Bern"],
+    "region": "Europe",
+    "languages": {
+      "fra": "French",
+      "gsw": "Swiss German",
+      "ita": "Italian",
+      "roh": "Romansh"
+    },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/51701"
+    },
+    "population": { "$numberInt": "8654622" },
+    "timezones": ["UTC+01:00"],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbb6" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tw.png",
+      "svg": "https://flagcdn.com/tw.svg",
+      "alt": ""
+    },
+    "name": {
+      "common": "Taiwan",
+      "official": "Republic of China (Taiwan)",
+      "nativeName": { "zho": { "official": "中華民國", "common": "台灣" } }
+    },
+    "currencies": { "TWD": { "name": "New Taiwan dollar", "symbol": "$" } },
+    "capital": ["Taipei"],
+    "region": "Asia",
+    "languages": { "zho": "Chinese" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/449220"
+    },
+    "population": { "$numberInt": "23503349" },
+    "timezones": ["UTC+08:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbb7" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/th.png",
+      "svg": "https://flagcdn.com/th.svg",
+      "alt": "The flag of Thailand is composed of five horizontal bands of red, white, blue, white and red, with the central blue band twice the height of the other four bands."
+    },
+    "name": {
+      "common": "Thailand",
+      "official": "Kingdom of Thailand",
+      "nativeName": {
+        "tha": { "official": "ราชอาณาจักรไทย", "common": "ประเทศไทย" }
+      }
+    },
+    "currencies": { "THB": { "name": "Thai baht", "symbol": "฿" } },
+    "capital": ["Bangkok"],
+    "region": "Asia",
+    "languages": { "tha": "Thai" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/2067731"
+    },
+    "population": { "$numberInt": "69799978" },
+    "timezones": ["UTC+07:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbb8" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/tr.png",
+      "svg": "https://flagcdn.com/tr.svg",
+      "alt": "The flag of Turkey has a red field bearing a large fly-side facing white crescent and a smaller five-pointed white star placed just outside the crescent opening. The white crescent and star are offset slightly towards the hoist side of center."
+    },
+    "name": {
+      "common": "Turkey",
+      "official": "Republic of Turkey",
+      "nativeName": {
+        "tur": { "official": "Türkiye Cumhuriyeti", "common": "Türkiye" }
+      }
+    },
+    "currencies": { "TRY": { "name": "Turkish lira", "symbol": "₺" } },
+    "capital": ["Ankara"],
+    "region": "Asia",
+    "languages": { "tur": "Turkish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/174737"
+    },
+    "population": { "$numberInt": "84339067" },
+    "timezones": ["UTC+03:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbb9" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/ae.png",
+      "svg": "https://flagcdn.com/ae.svg",
+      "alt": "The flag of United Arab Emirates features a red vertical band on its hoist side that takes up about one-fourth the width of the field and three equal horizontal bands of green, white and black adjoining the vertical band."
+    },
+    "name": {
+      "common": "United Arab Emirates",
+      "official": "United Arab Emirates",
+      "nativeName": {
+        "ara": {
+          "official": "الإمارات العربية المتحدة",
+          "common": "دولة الإمارات العربية المتحدة"
+        }
+      }
+    },
+    "currencies": {
+      "AED": { "name": "United Arab Emirates dirham", "symbol": "د.إ" }
+    },
+    "capital": ["Abu Dhabi"],
+    "region": "Asia",
+    "languages": { "ara": "Arabic" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/307763"
+    },
+    "population": { "$numberInt": "9890400" },
+    "timezones": ["UTC+04:00"],
+    "continents": ["Asia"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbba" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/gb.png",
+      "svg": "https://flagcdn.com/gb.svg",
+      "alt": "The flag of the United Kingdom — the Union Jack — has a blue field. It features the white-edged red cross of Saint George superimposed on the diagonal red cross of Saint Patrick which is superimposed on the diagonal white cross of Saint Andrew."
+    },
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland",
+      "nativeName": {
+        "eng": {
+          "official": "United Kingdom of Great Britain and Northern Ireland",
+          "common": "United Kingdom"
+        }
+      }
+    },
+    "currencies": { "GBP": { "name": "British pound", "symbol": "£" } },
+    "capital": ["London"],
+    "region": "Europe",
+    "languages": { "eng": "English" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
+    },
+    "population": { "$numberInt": "67215293" },
+    "timezones": [
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ],
+    "continents": ["Europe"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbbb" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/us.png",
+      "svg": "https://flagcdn.com/us.svg",
+      "alt": "The flag of the United States of America is composed of thirteen equal horizontal bands of red alternating with white. A blue rectangle, bearing fifty small five-pointed white stars arranged in nine rows where rows of six stars alternate with rows of five stars, is superimposed in the canton."
+    },
+    "name": {
+      "common": "United States",
+      "official": "United States of America",
+      "nativeName": {
+        "eng": {
+          "official": "United States of America",
+          "common": "United States"
+        }
+      }
+    },
+    "currencies": { "USD": { "name": "United States dollar", "symbol": "$" } },
+    "capital": ["Washington, D.C."],
+    "region": "Americas",
+    "languages": { "eng": "English" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8"
+    },
+    "population": { "$numberInt": "329484123" },
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "continents": ["North America"]
+  },
+  {
+    "_id": { "$oid": "6424cd180c06ccf40160cbbc" },
+    "flags": {
+      "png": "https://flagcdn.com/w320/uy.png",
+      "svg": "https://flagcdn.com/uy.svg",
+      "alt": "The flag of Uruguay is composed of nine equal horizontal bands of white alternating with blue, with a white square superimposed in the canton. In the white square is a yellow sun bearing a human face — the Sun of May — from which sixteen rays extend. The sun's rays alternate between triangular and wavy."
+    },
+    "name": {
+      "common": "Uruguay",
+      "official": "Oriental Republic of Uruguay",
+      "nativeName": {
+        "spa": {
+          "official": "República Oriental del Uruguay",
+          "common": "Uruguay"
+        }
+      }
+    },
+    "currencies": { "UYU": { "name": "Uruguayan peso", "symbol": "$" } },
+    "capital": ["Montevideo"],
+    "region": "Americas",
+    "languages": { "spa": "Spanish" },
+    "maps": {
+      "googleMaps": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+      "openStreetMaps": "https://www.openstreetmap.org/relation/287072"
+    },
+    "population": { "$numberInt": "3473727" },
+    "timezones": ["UTC-03:00"],
+    "continents": ["South America"]
+  }
+]
