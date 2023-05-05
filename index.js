@@ -2,12 +2,17 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const { MongoClient, ServerApiVersion } = require("mongodb");
-const port = process.env.PORT || 4000;
+const port = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
 
+const countries = require("./countries.json");
+
 app.get("/", (req, res) => {
   res.send("world university server running here");
+});
+app.get("/countries", (req, res) => {
+  res.send(countries);
 });
 
 // iknowthissabrina
@@ -34,12 +39,18 @@ async function run() {
       res.send(result);
     });
 
-    app.get("/countries", async (req, res) => {
-      const query = {};
-      const cursor = countriesCollection.find(query);
-      const countries = await cursor.toArray();
-      res.send(countries);
+    app.post("/addCountries", async (req, res) => {
+      const allCountries = req.body.array;
+      const result = await countriesCollection.insertMany(universities);
+      res.send(result);
     });
+
+    // app.get("/countries", async (req, res) => {
+    //   const query = {};
+    //   const cursor = countriesCollection.find(query);
+    //   const countries = await cursor.toArray();
+    //   res.send(countries);
+    // });
   } finally {
   }
 }
