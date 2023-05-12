@@ -1,19 +1,19 @@
 const express = require("express");
 const cors = require("cors");
 const app = express();
-const { MongoClient, ServerApiVersion } = require("mongodb");
+const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
 const port = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
 
-const countries = require("./countries.json");
+// const countries = require("./countries.json");
 
 app.get("/", (req, res) => {
   res.send("world university server running here");
 });
-app.get("/countries", (req, res) => {
-  res.send(countries);
-});
+// app.get("/countries", (req, res) => {
+//   res.send(countries);
+// });
 
 // iknowthissabrina
 // x847ZYzoAfbFvyrg
@@ -45,12 +45,30 @@ async function run() {
       res.send(result);
     });
 
-    // app.get("/countries", async (req, res) => {
-    //   const query = {};
-    //   const cursor = countriesCollection.find(query);
-    //   const countries = await cursor.toArray();
-    //   res.send(countries);
-    // });
+    app.get("/countries", async (req, res) => {
+      const query = {};
+      const cursor = countriesCollection.find(query);
+      const countries = await cursor.toArray();
+      res.send(countries);
+    });
+    app.get("/allUniversities", async (req, res) => {
+      const cursor = universitiesCollection.find({});
+      const allUniversities = await cursor.toArray();
+      res.send(allUniversities);
+    });
+    app.get("/universities/:country", async (req, res) => {
+      const country = req.params.country;
+      const query = { country: country };
+      const universities = await universitiesCollection.find(query);
+      res.send(await universities.toArray());
+    });
+    app.get("/numOfUniversities/:country", async (req, res) => {
+      const country = req.params.country;
+      const query = { country: country };
+      const cursor = await universitiesCollection.find(query);
+      const universities = await cursor.toArray();
+      res.send((await universities).length.toString());
+    });
   } finally {
   }
 }
