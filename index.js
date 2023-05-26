@@ -29,6 +29,9 @@ const client = new MongoClient(uri, {
 async function run() {
   try {
     const countriesCollection = client.db("world_uni").collection("countries");
+    const modifiedUniversitiesCollection = client
+      .db("world_uni")
+      .collection("modifiedUnis");
     const universitiesCollection = client
       .db("world_uni")
       .collection("universities");
@@ -44,6 +47,32 @@ async function run() {
       const result = await countriesCollection.insertMany(universities);
       res.send(result);
     });
+    app.put("/updateUni/:country", async (req, res) => {
+      console.log("api hit");
+      const country = req.params.country;
+      const filter = { country: country };
+      const countryInfo = req.body;
+      const option = { upsert: "true" };
+      const updatedUnis = {
+        $set: {
+          flags: countryInfo.flags,
+          currencies: countryInfo.currencies,
+          capital: countryInfo.capital,
+          region: countryInfo.region,
+          languages: countryInfo.languages,
+          maps: countryInfo.languages,
+          population: countryInfo.population,
+          timezones: countryInfo.timezones,
+          continents: countryInfo.continents,
+        },
+      };
+      const result = await universitiesCollection.updateMany(
+        filter,
+        updatedUnis,
+        option
+      );
+      res.send(result);
+    });
 
     app.get("/countries", async (req, res) => {
       const query = {};
@@ -51,12 +80,19 @@ async function run() {
       const countries = await cursor.toArray();
       res.send(countries);
     });
+    app.get("/countries/:name", async (req, res) => {
+      const name = req.params.name;
+      const query = { "name.common": name };
+      const country = await countriesCollection.findOne(query);
+      // console.log(country);
+      res.send(country);
+    });
     app.get("/allUniversities", async (req, res) => {
       const cursor = universitiesCollection.find({});
       const allUniversities = await cursor.toArray();
       res.send(allUniversities);
     });
-    app.get("/universities/:country", async (req, res) => {
+    app.get("/universities/countryName=:country", async (req, res) => {
       const country = req.params.country;
       const query = { country: country };
       const universities = await universitiesCollection.find(query);
